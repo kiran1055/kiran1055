@@ -7,9 +7,7 @@
 ">
   Hi, I'm Kiran Mane
 </h1>
-">
-  Hi, I'm Kiran Mane
-</h1>
+
 
 
 <h3 style="color:#555; font-family: cursive;">
