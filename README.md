@@ -135,8 +135,9 @@ A full-stack CRUD web application to manage **departments and employees**.
 
 </div>
 
+---
+
 <div align="center">
-
-© <script>document.write(new Date().getFullYear())</script> Kiran Mane. All rights reserved.
-
+© 2025 Kiran Mane. All rights reserved.
 </div>
+
