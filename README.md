@@ -1,12 +1,14 @@
 <div align="center">
 
- <h1 style="
-  font-family: cursive;
-  background: linear-gradient(to right, #FFC371, #FF5F6D);
- 
-">
-  Hi, I'm Kiran Mane
-</h1>
+ <h1 class="title">Hi, I'm Kiran Mane</h1>
+
+<style>
+  .title {
+    color: #2F80ED;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+</style>
+
 
 
 
