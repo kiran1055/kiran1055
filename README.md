@@ -1,6 +1,13 @@
 <div align="center">
 
-<h1 style="font-family: cursive;">
+ <h1 style="
+  font-family: cursive;
+  background: linear-gradient(to right, #FFC371, #FF5F6D);
+ 
+">
+  Hi, I'm Kiran Mane
+</h1>
+">
   Hi, I'm Kiran Mane
 </h1>
 
