@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color:#2F80ED;">Hi, I'm Kiran Mane</h1>
+<h1 style="color:#2F80ED;">Hi, I'm Kiran Mane </h1>
 
 <h3 style="color:#555;">
 Software Developer | Java Full Stack | Web Developer
@@ -14,23 +14,23 @@ Software Developer | Java Full Stack | Web Developer
 
 ---
 
-## About Me
+##  About Me
 
-Passionate and results-driven Software Developer with strong skills in Java Full Stack Development and Web Technologies.  
+Passionate and results-driven **Software Developer** with strong skills in **Java Full Stack Development** and **Web Technologies**.  
 I enjoy building clean, scalable applications and solving real-world problems using efficient code and structured architecture.  
 Always eager to learn new technologies and contribute to meaningful projects.
 
 ---
 
-## Location
-Pune, Maharashtra, India
+##  Location
+**Pune, Maharashtra, India**
 
 ---
 
-## Contact
+##  Contact
 
-- Email: `kmane1055@gmail.com`
-- Phone: `+91 9529836266`
+-  **Email:** `kmane1055@gmail.com`
+-  **Phone:** `+91 9529836266`
 
 <p>
 <a href="https://www.linkedin.com/in/mrkiranmane1055/" target="_blank">
@@ -44,7 +44,7 @@ Pune, Maharashtra, India
 
 ---
 
-## Programming Languages
+##  Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,7 +52,7 @@ Pune, Maharashtra, India
 
 ---
 
-## Frontend Technologies
+##  Frontend Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,7 +60,7 @@ Pune, Maharashtra, India
 
 ---
 
-## Backend and Server-Side
+##  Backend & Server-Side
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -68,22 +68,22 @@ Pune, Maharashtra, India
 
 ---
 
-## Databases
+##  Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## Developer Tools
+##  Developer Tools
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## Version Control and Collaboration
+##  Version Control & Collaboration
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -91,47 +91,52 @@ Pune, Maharashtra, India
 
 ---
 
-## Operating System
+##  Operating System
 
 ![Windows](https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## Projects
+##  Projects
 
-### Product CRUD Application
+###  Product CRUD Application
+A full-stack CRUD web application to manage **departments and employees**.
 
-A full-stack CRUD web application to manage departments and employees.
-
-Features:
-- Add, View, Update and Delete Employees  
+** Features**
+- Add, View, Update & Delete Employees  
 - Department-wise categorization  
 - Live search using AJAX  
-- Clean UI using Bootstrap  
+- Bootstrap-based clean UI  
 - MVC architecture  
-- Secure MySQL operations using Promises  
+- Secure DB operations using MySQL2 Promises  
 
-Tech Stack:  
-Node.js, Express.js, MySQL, EJS, Bootstrap
+** Tech Stack**  
+`Node.js` • `Express.js` • `MySQL` • `EJS` • `Bootstrap`
 
 ---
 
-## Education
+##  Education
 
-Bachelor of Computer Science — 7.51 CGPA  
-Savitribai Phule Pune University, Pathardi  
+-  **Bachelor of Computer Science** — **7.51 CGPA**  
+  Savitribai Phule Pune University, Pathardi  
 
-HSC (12th) — 65.50%  
-M.M. Nirhali Junior College, Pathardi  
+-  **HSC (12th)** — **65.50%**  
+  M.M. Nirhali Junior College, Pathardi  
 
-SSC (10th) — 75.60%  
-M.M. Nirhali Vidyalaya, Pathardi  
+-  **SSC (10th)** — **75.60%**  
+  M.M. Nirhali Vidyalaya, Pathardi  
 
 ---
 
 <div align="center">
 
-Thank you for visiting my GitHub profile  
-Open to opportunities and collaborations
+ *Thank you for visiting my GitHub profile!*  
+ *Open to opportunities & collaborations*
+
+</div>
+
+<div align="center">
+
+© <script>document.write(new Date().getFullYear())</script> Kiran Mane. All rights reserved.
 
 </div>
