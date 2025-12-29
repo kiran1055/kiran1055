@@ -1,8 +1,16 @@
 <div align="center">
 
-<h1 style="color:#2F80ED;">Hi, I'm Kiran Mane </h1>
+<h1 style="
+  font-family: cursive;
+  background: linear-gradient(to right, #FFC371, #FF5F6D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+">
+  Hi, I'm Kiran Mane
+</h1>
 
-<h3 style="color:#555;">
+
+<h3 style="color:#555; font-family: cursive;">
 Software Developer | Java Full Stack | Web Developer
 </h3>
 
@@ -111,20 +119,20 @@ A full-stack CRUD web application to manage **departments and employees**.
 - Secure DB operations using MySQL2 Promises  
 
 ** Tech Stack**  
-`Node.js` • `Express.js` • `MySQL` • `EJS` • `Bootstrap`
+`Node.js` • `Express.js` • `MySQL` • `EJS`
 
 ---
 
 ##  Education
 
 -  **Bachelor of Computer Science** — **7.51 CGPA**  
-  Savitribai Phule Pune University, Pathardi  
+  Savitribai Phule Pune University
 
 -  **HSC (12th)** — **65.50%**  
-  M.M. Nirhali Junior College, Pathardi  
+  M.M. Nirhali Junior College Pathardi  
 
 -  **SSC (10th)** — **75.60%**  
-  M.M. Nirhali Vidyalaya, Pathardi  
+  M.M. Nirhali Vidyalaya Pathardi  
 
 ---
 
